@@ -1,4 +1,4 @@
-#NUMBLR
+#NUMBLR: Number guessing game.
 import random
 
 number = random.randint(1,100)
